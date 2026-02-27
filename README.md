@@ -2,7 +2,7 @@
 
 ## Project context
 This project was developed as part of the **Application Designer & Developer (React-oriented)** training program by OpenClassrooms.  
-It is the second integration project in the curriculum and focuses on responsive HTML and advanced CSS (Sass) based on a provided design mockup.
+It's a integration project in the curriculum and focuses on responsive HTML and advanced CSS (Sass) based on a provided design mockup.
 
 The goal was to build a mobile-first interactive interface for a fictional restaurant platform, showcasing CSS animations, responsive layout techniques, and structured Sass code.
 
